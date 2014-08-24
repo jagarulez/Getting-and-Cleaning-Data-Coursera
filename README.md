@@ -14,7 +14,7 @@ After merging testing and training, labels are added and only columns that have 
 
 Finally, the script will create a tidy data set containing the means of all the columns per test subject and per activity. 
 
-The tidy.txt dataset
+tidy.txt dataset
 ---------------------
 
 This tidy dataset will be written to a tab-delimited file called tidy.txt, which can also be found in this repository.
