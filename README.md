@@ -1,3 +1,3 @@
-Getting and Cleaning Data Coursera Proyect
+Getting and Cleaning Data Coursera Project
 ===========================================
 
